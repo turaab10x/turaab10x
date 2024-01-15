@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning jetpack
 - 💞️ I’m looking to collaborate on Api's
 - 📫 How to reach me turaab.10xdigital@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: i'm funny
 
 <!---
